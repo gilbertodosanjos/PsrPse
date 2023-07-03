@@ -1,0 +1,14 @@
+/home/anastacia/Documentos/ProjetosEstudos/PsrPse/PsrPse.Domain/obj/Debug/net7.0/PsrPse.Domain.csproj.AssemblyReference.cache
+/home/anastacia/Documentos/ProjetosEstudos/PsrPse/PsrPse.Domain/obj/Debug/net7.0/PsrPse.Domain.Resources.MSG.resources
+/home/anastacia/Documentos/ProjetosEstudos/PsrPse/PsrPse.Domain/obj/Debug/net7.0/PsrPse.Domain.csproj.GenerateResource.cache
+/home/anastacia/Documentos/ProjetosEstudos/PsrPse/PsrPse.Domain/obj/Debug/net7.0/PsrPse.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/anastacia/Documentos/ProjetosEstudos/PsrPse/PsrPse.Domain/obj/Debug/net7.0/PsrPse.Domain.AssemblyInfoInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/PsrPse/PsrPse.Domain/obj/Debug/net7.0/PsrPse.Domain.AssemblyInfo.cs
+/home/anastacia/Documentos/ProjetosEstudos/PsrPse/PsrPse.Domain/obj/Debug/net7.0/PsrPse.Domain.csproj.CoreCompileInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/PsrPse/PsrPse.Domain/bin/Debug/net7.0/PsrPse.Domain.deps.json
+/home/anastacia/Documentos/ProjetosEstudos/PsrPse/PsrPse.Domain/bin/Debug/net7.0/PsrPse.Domain.dll
+/home/anastacia/Documentos/ProjetosEstudos/PsrPse/PsrPse.Domain/bin/Debug/net7.0/PsrPse.Domain.pdb
+/home/anastacia/Documentos/ProjetosEstudos/PsrPse/PsrPse.Domain/obj/Debug/net7.0/PsrPse.Domain.dll
+/home/anastacia/Documentos/ProjetosEstudos/PsrPse/PsrPse.Domain/obj/Debug/net7.0/refint/PsrPse.Domain.dll
+/home/anastacia/Documentos/ProjetosEstudos/PsrPse/PsrPse.Domain/obj/Debug/net7.0/PsrPse.Domain.pdb
+/home/anastacia/Documentos/ProjetosEstudos/PsrPse/PsrPse.Domain/obj/Debug/net7.0/ref/PsrPse.Domain.dll
