@@ -12,7 +12,7 @@ public class Treino : EntityBase
                     int rMSSD, int lfHf)
     {
         TipoTreino = tipoTreino;
-        this.usuario = usuario;
+        Usuario = usuario;
         PercepcaoDeDorArticular = percepcaoDeDorArticular;
         PercepcaodeDorMuscular = percepcaodeDorMuscular;
         Data = data;
@@ -21,15 +21,15 @@ public class Treino : EntityBase
         RMSSD = rMSSD;
         LfHf = lfHf;
     }
-    public Guid IdTreino { get; set; }
-    public TipoDeTreino  TipoTreino { get; private set; }
-    public Usuario usuario { get; private set; }
+    public int IdTreino { get; set; }
+    public TipoDeTreino  TipoTreino { get;  set; }
+    public Usuario Usuario { get; private set; }
     public int QuaoIntensaFoiSessaoDeTreinamento { get; set; }
-    public PercepcaoDeDorArticular PercepcaoDeDorArticular { get; private set; }
-    public PercepcaodeDorMuscular PercepcaodeDorMuscular { get; private set; }
+    public PercepcaoDeDorArticular? PercepcaoDeDorArticular { get;  set; }
+    public PercepcaodeDorMuscular PercepcaodeDorMuscular { get;  set; }
     public DateTime Data { get; set; }
-    public int Peso { get; private set; }
-    public int SaltoContramovimentoCMJ { get; private set; }
+    public int Peso { get;  set; }
+    public int SaltoContramovimentoCMJ { get;  set; }
     public int RMSSD { get; set; }
     public int LfHf { get; set; }
 

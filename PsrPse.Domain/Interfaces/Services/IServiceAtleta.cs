@@ -1,12 +1,13 @@
 using PsrPse.Domain.Arguments.Atleta;
 using PsrPse.Domain.Arguments.Base;
+using PsrPse.Domain.Interfaces.Services.Base;
 
 namespace PsrPse.Domain.Interfaces.Services;
 
 public interface IServiceAtleta : IServiceBase
 {
-    AdicionarAtletaResponse Adicionar(AdicionarAtletaRequest request, Guid idUsuario);
-    IEnumerable<AdicionarAtletaResponse> Listar(Guid idAtleta);
+    AtletaResponse Adicionar(AdicionarAtletaRequest request, Guid idUsuario);
+    IEnumerable<AtletaResponse> Listar(Guid idAtleta);
     Response Alterar(AdicionarAtletaRequest request);
     Response Excluir(Guid id);
 }

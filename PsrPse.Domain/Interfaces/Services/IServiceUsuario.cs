@@ -1,4 +1,5 @@
 using PsrPse.Domain.Arguments.Usuario;
+using PsrPse.Domain.Interfaces.Services.Base;
 
 namespace PsrPse.Domain.Interfaces.Services;
 
